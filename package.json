@@ -1,5 +1,5 @@
 {
-  "name": "ffmpegts",
+  "name": "command-executer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,9 @@
   "author": "Egor Likhachev",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.2.0"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.3"
+    "@types/inquirer": "^8.2.0"
   }
 }
